@@ -8,6 +8,8 @@ function answerOneBtn(){
     console.log(result)
 }
 
+// multiplier
+
 // MULTIPLICATION TABLE 2
 function answerTwoBtn(){
     let numberTwo = document.getElementById('numberTwo').value
